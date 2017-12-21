@@ -11,4 +11,4 @@ If you have pip installed
 
 ## Usage
 
-```python letras.py```
+```python lyrics.py```
