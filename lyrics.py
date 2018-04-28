@@ -40,9 +40,6 @@ def recover():
         print result.song.lyric
         print
 
-def thread_input():
-    thread.start_new_thread(thread_recover())
-
 if __name__ == "__main__":
     while True:
         print 'type \'r\' to reload the lyric of the current playing song'
