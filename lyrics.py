@@ -38,7 +38,7 @@ def recover():
         print 'Song artist:', result.artist.name
         print
         print result.song.lyric
-        print
+        print '\n\n\n\n'
 
 if __name__ == "__main__":
     while True:
